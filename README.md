@@ -11,7 +11,7 @@ This project is a simple web application that allows users to add, complete, and
 - Fetch todos from the API JSON Placeholder and display them in a list.
 - Add new todos to the list.
 - Mark todos as completed or uncompleted.
-- Delete todos from the list .
+- Delete todos from the list.
 
 ## Demo
 
@@ -19,7 +19,7 @@ You can see a live demo here: [Live Demo](https://zlatan-cic.github.io/typicode-
 
 ## Usage
 
-- The application will load todos from the Typicode API and display them in a list.
+- The application will load todos from the API JSON Placeholder and display them in a list.
 - To add a new todo, type the todo text in the input field and click the "Add" button.
 - To mark a todo as completed, click on the todo item. It will toggle between completed and uncompleted status.
 - To delete a todo, double-click on the todo item.
