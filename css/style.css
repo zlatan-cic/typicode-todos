@@ -16,6 +16,8 @@ html {
 body {
   line-height: 1.6;
   padding: 0 4rem;
+  background-color: #FFF;
+  
 }
 
 .title-text {
@@ -67,5 +69,10 @@ input[type="text"] {
 
 .done {
   background-color: #ccc;
-  color: #999;
+  color: #666;
+}
+
+
+.unmarked {
+  background-color: #FFF;
 }
