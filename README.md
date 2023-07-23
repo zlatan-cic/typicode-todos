@@ -8,7 +8,7 @@ This project is a simple web application that allows users to add, complete, and
 
 ## Features
 
-- Fetch todos from the Typicode API and display them in a list.
+- Fetch todos from the API JSON Placeholder and display them in a list.
 - Add new todos to the list.
 - Mark todos as completed or uncompleted.
 - Delete todos from the list .
